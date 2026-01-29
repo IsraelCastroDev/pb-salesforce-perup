@@ -54,7 +54,7 @@ Screenshots are included in the `/screenshots` folder and demonstrate:
 
 3. The Flow firing (Task created automatically)
 ![flow](screenshots/flow-builder.png)
-![flow](screenshots/op-change-status.png.png)
+![flow](screenshots/op-change-status.png)
 ![flow](screenshots/flow-fire.png)
 
 4. The Engagement Pipeline report with chart
