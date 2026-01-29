@@ -39,3 +39,7 @@ This project implements Engagement management features in Salesforce, including 
 - List Views:
   - My Open Engagements
   - Q Engagements by Account
+    
+## Screenshots
+Screenshots demonstrating the functionality are available in the `/screenshots` folder.
+
